@@ -16,7 +16,7 @@
     ],
     'data': [
         'views/pos_config_view.xml',
-        'views/templates.xml',
+        'views/assets.xml',
     ],
     'qweb': [
         'static/src/xml/pos_quick_logout.xml',
