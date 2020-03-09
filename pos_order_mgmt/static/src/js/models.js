@@ -27,4 +27,5 @@ odoo.define('pos_order_mgmt.models', function (require) {
             return res;
         },
     });
+
 });
